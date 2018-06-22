@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="error_message">There is no internet connection.\nTap to try again.</string>
+    <string name="empty_favorites_message">You haven\'t added any favorite movies yet.</string>
+    <string name="sort_by_most_popular">Most popular movies</string>
+    <string name="sort_by_highest_rated">Highest-rated movies</string>
+    <string name="sort_favorites">Favorite movies</string>
+    <string name="rating">%1$s/10</string>
+    <string name="favorite_button">Favorite</string>
+    <string name="plot">Plot:</string>
+    <string name="reviews">Reviews:</string>
+    <string name="trailers">Trailers:</string>
+    <string name="review_text">\"%1$s\"</string>
+    <string name="movie_image_content_description">Movie image</string>
+</resources>
