@@ -49,3 +49,9 @@ You’ll add more information to your movie details view:
 ### What Will I Learn After Stage 2?
 
 You will build a fully featured application that looks and feels natural on the latest Android operating system.
+
+## Screenshots: 
+
+![screenshot](/screenshots/screenshot_2018-06-22-11-19-25.png?raw=true)
+![screenshot](/screenshots/screenshot_2018-06-22-11-23-41.png?raw=true)
+![screenshot](/screenshots/screenshot_2018-06-22-11-24-15.png?raw=true)
